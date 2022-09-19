@@ -1,4 +1,8 @@
-### Hi there 👋
+### Aloha! A little about me-
+- :books: **Career:** I’m currently working on University.
+- :pencil2: **School:** I'm currently learning Data Science, Anlytics, and Visualization.
+- 📫 **How to reach me**: alohaneris@gmail.com
+- :thought_balloon: **Fun Fact:** If I could only have one food for the rest of my life, it would be rice.
 
 <!--
 **wcarri/wcarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
