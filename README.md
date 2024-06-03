@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on University
 - 🌱 I’m currently learning Data Science, Anlytics, and Visualization
-- 📫 How to reach me: alohaneris@gmail.com
+- 📫 How to reach me: wilneris.carrion-colon@student.chaminade.edu
 -->
