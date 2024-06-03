@@ -1,7 +1,7 @@
 ### Aloha! A little about me-
 - :books: **Career:** I’m currently working on University.
 - :pencil2: **Education:** I'm majoring in Data Science, Anlytics, and Visualization.
-- 📫 **How to reach me**: alohaneris@gmail.com
+- 📫 **How to reach me**: wilneris.carrion-colon@student.chaminade.edu
 - :thought_balloon: **Fun Fact:** If I could only have one food for the rest of my life, it would be rice.
 
 <!--
